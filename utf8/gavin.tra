@@ -22,7 +22,7 @@
 @25   = ~Ночью мир отдыхает и обновляется.~ [BGAV_20]
 @26   = ~Что ты хочешь?~ [BGAV_21]
 @27   = ~Да?~ [BGAV_22]
-@28   = ~Хмм?~ [BGAV_23]
+@28   = ~Хм-м?~ [BGAV_23]
 @29   = ~Чем могу помочь?~ [BGAV_24]
 @30   = ~Что прикажешь?~ [BGAV_25]
 @31   = ~Что пожелаешь?~ [BGAV_26]
@@ -50,7 +50,7 @@
 @52   = ~[CADDERLY 8]~ [%tutu_var%CADER08]
 @53   = ~[CADDERLY 9]~ [%tutu_var%CADER09]
 @54   = ~Дарлос~
-@55   = ~[MALE GREETING 3] Хмм?~ [%tutu_var%GENMG03]
+@55   = ~[MALE GREETING 3] Хм-м?~ [%tutu_var%GENMG03]
 @56   = ~[MALE TOWNSFOLK 5]~ [%tutu_var%VILLM05]
 @57   = ~[MALE TOWNSFOLK 6]~ [%tutu_var%MTOWN06]
 @58   = ~[TOWNSFOLK, MALE/FRIENDLY ARM HOSTILE] Я тебе уши отрежу, если подойдешь на дюйм ближе!~
